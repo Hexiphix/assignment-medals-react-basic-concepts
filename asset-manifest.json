@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-medals-react-basic-concepts/static/css/main.70e41cc7.css",
+    "main.js": "/assignment-medals-react-basic-concepts/static/js/main.7092bb7e.js",
+    "static/js/787.4d6ab9fd.chunk.js": "/assignment-medals-react-basic-concepts/static/js/787.4d6ab9fd.chunk.js",
+    "index.html": "/assignment-medals-react-basic-concepts/index.html",
+    "main.70e41cc7.css.map": "/assignment-medals-react-basic-concepts/static/css/main.70e41cc7.css.map",
+    "main.7092bb7e.js.map": "/assignment-medals-react-basic-concepts/static/js/main.7092bb7e.js.map",
+    "787.4d6ab9fd.chunk.js.map": "/assignment-medals-react-basic-concepts/static/js/787.4d6ab9fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70e41cc7.css",
+    "static/js/main.7092bb7e.js"
+  ]
+}
